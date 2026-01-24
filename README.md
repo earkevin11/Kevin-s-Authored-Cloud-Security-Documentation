@@ -1,6 +1,6 @@
 # Kevin-s-Authored-Cloud-Security-Documentation
 
-# Purpose: Store knowledge base of projects I've worked on related to Cloud Security
+# Purpose: Store documentation of projects and work I've done related to Cloud Security
 
 # Azure Policies
 
