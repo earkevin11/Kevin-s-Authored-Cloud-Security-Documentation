@@ -6,8 +6,8 @@
 
 - [Applying Exemptions to an Azure Policy](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Applying%20Exemptions%20to%20a%20Azure%20Policy%20-%20Overview%20-%20KE.pdf)
 - [Removing subscription/resource exclusions from Azure Policy enforcement and Applying exclusions](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Removing%20exclusions%20and%20Applying%20exclusions%20to%20Azure%20Policy%20-%20Overview%20-%20KE.pdf)
-- [Deny Creation of Azure Storage Accounts if public access from all networks is selected]
-- [Deny Creation of Azure Key Vaults if public access is enabled]
+- [Deny Creation of Azure Storage Accounts if public access from all networks is selected](https://github.com/earkevin11/Azure-Policy---Deny-creation-of-Azure-Storage-Account-from-allowing-public-access-from-all-networks/blob/main/README.md)
+- [Deny Creation of Azure Key Vaults if public access is enabled](https://github.com/earkevin11/Deny-creation-of-Azure-Key-Vault-from-allowing-public-access-to-all-networks/blob/main/README.md)
 
 
 # Securing secrets and API keys in an Azure Key Vault
