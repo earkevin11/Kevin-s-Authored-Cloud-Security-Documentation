@@ -21,7 +21,7 @@
 # CrowdStrike Falcon Cloud Security Posture Management 
 
 - [Indicators of Attacks Playbook](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Indicator%20of%20Attack%20(IOA)%20Playbook%20-%20CrowdStrike%20CSPM%20-%20Overview%20-%20KE.pdf)
-- [Indicators of Attacks Misconfiguration Playbook](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Indicator%20of%20Misconfiguration%20Playbook%20(CrowdStrike%20CSPM)%20-%20Overview%20-%20KE.pdf)
+- [Indicators of Misconfiguration Playbook](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Indicator%20of%20Misconfiguration%20Playbook%20(CrowdStrike%20CSPM)%20-%20Overview%20-%20KE.pdf)
 - [Automate IOA Alerts to Shared Mailbox](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/Automate%20IOA%20alerts%20to%20shared%20mailbox%20-%20Overview%20-%20KE.pdf)
 - [Integrating ServiceNow and Falcon CSPM Tool to Enable Creation of a SNOW ticket](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/ServiceNow%20and%20CSPM%20integration%20-%20KE.pdf)
 - [Registering Entra ID tenant with CrowdStrike CSPM](https://github.com/earkevin11/Kevin-s-Authored-Cloud-Security-Documentation/blob/main/%5BNew%20Deployment%20Method%5D%20Bicep%20Re-registration%20of%20Azure%20Environment%20-%20Overview%20-%20KE.pdf)
